@@ -3,9 +3,9 @@ A tmux clone for Windows. Great for *ssh* connections or using terminals with no
 
 ## Usage ##
 1) Extract or clone project
-2) Run **<extracted>\bin\vimux**
+2) Run **\<extracted\>\bin\vimux**
 
-You might also want to consider adding the **extracted\bin** folder to the *PATH* so that you can just run **vimux** in any directory.
+You might also want to consider adding the **\<extracted\>\bin** folder to the *PATH* so that you can just run **vimux** in any directory.
 
 ## Shortcuts ##
 
