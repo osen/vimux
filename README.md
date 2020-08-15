@@ -14,4 +14,4 @@ Based on similar to tmux (but I only have 4 so far ;)
 - **ctrl-b p** - Changes to previous terminal
 - **ctrl-b x** - Closes current terminal (and exits **vimux** if no terminals remain)
 
-For example, press and hold control then tab b. Release control and tap c to create a new terminal
+For example, press and hold **control** then tap **b**. Release **control** and tap **c** to create a new terminal
